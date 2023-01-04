@@ -1,0 +1,93 @@
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "docs"
+
+author = "Matt Kharrl"
+title = "Matt Kharrl"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Matt Kharrl"
+intro = "Technology / Cycling / Family"
+description = "I have approximate knowledge of many things."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Matt Kharrl's personal website."
+keywords = "matt,kharrl,blog,technology,cycling,family"
+
+## Social Accounts
+[params.social]
+github = "colbenkharrl"
+instagram = "matt.kharrl"
+# xing = "<username>"
+linkedin = "mattkharrl"
+# twitter = "<username>"
+# facebook = "<username>"
+# google = "<username>"
+# googlescholar = "<account_id>"
+# stackoverflow = "<username>"
+# lastfm = "<username>"
+# goodreads = "<username>"
+# gitlab = "<username>"
+# bitbucket = "<username>"
+# fivehundredpx = "<username>"
+# flickr = "<username>"
+# foursquare = "<username>"
+# hackernews = "<username>"
+# kickstarter = "<username>"
+# patreon = "<username>"
+# pintrest = "<username>"
+# steam = "<username>"
+# reddit = "<username>"
+# snapchat = "<username>"
+# youtube = "<channelid>"
+# keybase = "<username>"
+# twitch = "<username>"
+# soundcloud = "<username>"
+# tumblr = "<username>"
+strava = "41283083"
+# skype = "<username>"
+# telegram = "<username>"
+# whatsapp = "<username>"
+# buymeacoffee = "<username>"
+# kaggle = "<username>"
+# email = "you@example.com"
+# pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2022. Matt Kharrl. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
