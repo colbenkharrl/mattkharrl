@@ -9,6 +9,7 @@ slug = ""
 tags = ["cycling","racing"]
 title = "Cycling Before Racing"
 description = "Looking back on my cycling journey prior to lining up for my first race."
+type="blog"
 
 +++
 
@@ -22,10 +23,12 @@ I spent 2021 learning about training and performance by and for myself. Training
 
 The idea of "bike racing" was always alluring, but I had never spent enough thought or effort to understand what that entails, let alone how I might join the scene. In reality, I was insecure and afraid that this "competitive athlete" persona I had crafted in my head might be shattered if I went up against "real" athletes.
 
-I maintained a "one day, I will race" attitude until March 2022. I jumped on the short-notice opportunity to spend a weekday riding with two well-known bike racers, cycling personalities, and personal heroes of mine. They told me on the ride a few things I hadn't realized I needed to hear:
-"you are strong" (who doesn't love validation)
-"find your next local USAC race, sign up in CAT 5, and just do it" (simple instructions to follow)
-"it will be hard, you will fail, that's okay" (expect to be humbled)
+I maintained a _"one day, I will race"_ attitude until March 2022. I jumped on the short-notice opportunity to spend a weekday riding with two well-known bike racers, cycling personalities, and personal heroes of mine. They told me on the ride a few things I hadn't realized I needed to hear:
+
+- "you are strong" (who doesn't love validation)
+- "find your next local USAC race, sign up in CAT 5, and just do it" (pretty simple instructions to follow)
+- "it will be hard, you will fail, that's okay" (expect to be humbled)
+
 These few brief comments were significant. That night, I signed up for my first USAC race - a CAT 5 criterium - with only three days until the event.
 
 How that race went, as well as the rest of my racing journey, are topics for future blogs.

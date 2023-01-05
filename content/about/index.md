@@ -10,7 +10,7 @@ title = "About Me"
 showpagemeta = false
 +++
 
-I am an ordinary and simple guy, and this is my ordinary and simple blog. I don't claim to be an expert on anything and mostly just write for myself. There is no central theme and no enforced structure for anything here. Still, you might find that my thoughts generally gravitate toward a few fundamental pieces of my life:
+I am an ordinary and simple guy, and this is my ordinary and simple blog. I don't claim to be an expert on anything and mostly just write for myself. There is no central theme and no enforced structure for anything here. Still, you might find that my thoughts generally center around a few focuses:
 
 - I co-founded a technology startup at the age of 23. Thus, I am constantly riding the waves that come with learning to be a technology leader on-the-job.
 - I am a cyclist and race with a local team. Training, performance, and health are always on my mind and take up much of my time.
