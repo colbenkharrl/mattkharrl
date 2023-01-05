@@ -1,28 +1,33 @@
 +++
-categories = ["ad"]
+categories = ["cycling"]
 comments = false
-date = "2016-10-02T15:59:13-04:00"
+date = "2023-01-05T09:00:00-07:00"
 draft = false
 showpagemeta = true
-showcomments = true
+showcomments = false
 slug = ""
-tags = ["gavin", "belson", "hooli", "hardware"]
-title = "Gavin Belson"
-description = "A post about the amazingness of Gavin Belson"
+tags = ["cycling","racing"]
+title = "Cycling Before Racing"
+description = "Looking back on my cycling journey prior to lining up for my first race."
 
 +++
 
-Note: This article originally appeared in [CodeRag](http://www.coderag.com/10-facts-you-didnt-know-about-gavin-belson/).
+Bikes have been part of my life in some capacity for most of my life. Walmart bikes as a kid, street BMX bikes as a teenager, fixed-gear bikes in college, and road bikes as a young adult. This relationship was casual and adventurous, focusing more on getting lost with a camera and less on training zones.
 
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
+After moving from San Franciso to Phoenix, my morning rides went from "climbing coastal mountains and crossing the golden gate bridge" to "riding from flat suburbs to flat farmland." My motivation to ride my bike was suffering, so I started putting more value into other aspects of my rides: average speed, distance, personal records, etc. This marked the start of my cycling mentality shifting to performance and athleticism.
 
-* He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries. In fact, I’ve recently spearheaded the creation of Hooli’s newest charity: the Hooli Elephant Wildlife Trust.”
-* He likes to go analog! His company may have been founded on email, but Belson has a soft spot for the written word. “There’s something nostalgic about receiving a letter—it’s a message from the past.”
-* He’s an honorary shaman! “I studied at the Institute of Spiritual Therapy and Vision Quests, where I was honored with the title of shaman. The Institute has fundamentally furthered my understanding of the world and its capacity for greatness.”
-* His favorite pizza topping is pepperoni! “Uncured, preferably, with some aged parmesan.”
-* He drives a Tesla! “Black. I try not to bee too conspicuous. And of course, the benefit to the environment is incomparable.”
-* His health is important to him! “I eat at least one piece of unprocessed fruit a day.”
-* He has bad habits too! “I never reboot my laptop. I know it’s bad, but I’m always in a hurry.”
-* He doesn’t have a Nobel Peace Prize…yet! “It’s a common misconception, especially with the amount of charity work I do with Hooli, and sometimes people associate my status as a shaman with working towards world peace, which of course is something I’m striving for.”
-* He’s loyal to his barber! “I’ve been going to the same barber for years—he was based in Palo Alto, but I’ve convinced him to move to the South Bay.”
-* He really, really loves animals! “I would say I’m a cat person. And a dog person. I’m an animal person, and I don’t just mean that human beings are animals. Did you know the African bush elephant is still an endangered species? Programs like the Hooli Elephant Wildlife Trust won’t save them immediately, but it’s a start.”
+In December 2020, I completed Rapha's "Festive 500" challenge for the first time: 500km within 8 days. Coming off of that challenge, I realized that my base fitness and training tolerance were solid, and I wanted more. So, I purchased a smart trainer and started my training and performance journey.
+
+I spent 2021 learning about training and performance by and for myself. Training with power, structure, and goals changed how I thought about cycling and myself as an athlete. Zwift opened new doors for me, and occasional group rides exposed me to social discipline and etiquette within the sport. Over 2021 I would see my FTP climb from 3.2w/kg -> 4.1w/kg, and my annual miles would triple to 5000.
+
+The idea of "bike racing" was always alluring, but I had never spent enough thought or effort to understand what that entails, let alone how I might join the scene. In reality, I was insecure and afraid that this "competitive athlete" persona I had crafted in my head might be shattered if I went up against "real" athletes.
+
+I maintained a "one day, I will race" attitude until March 2022. I jumped on the short-notice opportunity to spend a weekday riding with two well-known bike racers, cycling personalities, and personal heroes of mine. They told me on the ride a few things I hadn't realized I needed to hear:
+"you are strong" (who doesn't love validation)
+"find your next local USAC race, sign up in CAT 5, and just do it" (simple instructions to follow)
+"it will be hard, you will fail, that's okay" (expect to be humbled)
+These few brief comments were significant. That night, I signed up for my first USAC race - a CAT 5 criterium - with only three days until the event.
+
+How that race went, as well as the rest of my racing journey, are topics for future blogs.
+
+Sometimes I harbor negative thoughts like "if only I had started in high school" or "it's too late for me now." However, looking back now, the journey that brought me to my first starting line was exactly what I needed it to be: personal, adventurous, challenging, and humbling.

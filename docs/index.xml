@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Kharrl</title>
+    <link>https://matt.kharrl.com/</link>
+    <description>Recent content on Matt Kharrl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Jan 2023 09:00:00 -0700</lastBuildDate><atom:link href="https://matt.kharrl.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cycling Before Racing</title>
+      <link>https://matt.kharrl.com/blog/first/</link>
+      <pubDate>Thu, 05 Jan 2023 09:00:00 -0700</pubDate>
+      
+      <guid>https://matt.kharrl.com/blog/first/</guid>
+      <description>Bikes have been part of my life in some capacity for most of my life. Walmart bikes as a kid, street BMX bikes as a teenager, fixed-gear bikes in college, and road bikes as a young adult. This relationship was casual and adventurous, focusing more on getting lost with a camera and less on training zones.
+After moving from San Franciso to Phoenix, my morning rides went from &amp;ldquo;climbing coastal mountains and crossing the golden gate bridge&amp;rdquo; to &amp;ldquo;riding from flat suburbs to flat farmland.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://matt.kharrl.com/about/</link>
+      <pubDate>Wed, 04 Jan 2023 09:00:00 -0700</pubDate>
+      
+      <guid>https://matt.kharrl.com/about/</guid>
+      <description>I am an ordinary and simple guy, and this is my ordinary and simple blog. I don&amp;rsquo;t claim to be an expert on anything and mostly just write for myself. There is no central theme and no enforced structure for anything here. Still, you might find that my thoughts generally gravitate toward a few fundamental pieces of my life:
+I co-founded a technology startup at the age of 23. Thus, I am constantly riding the waves that come with learning to be a technology leader on-the-job.</description>
+    </item>
+    
+  </channel>
+</rss>
