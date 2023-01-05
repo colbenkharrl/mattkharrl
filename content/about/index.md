@@ -14,6 +14,6 @@ I am an ordinary and simple guy, and this is my ordinary and simple blog. I don'
 
 - I co-founded a technology startup at the age of 23. Thus, I am constantly riding the waves that come with learning to be a technology leader on-the-job.
 - I am a cyclist and race with a local team. Training, performance, and health are always on my mind and take up much of my time.
-- I am a husband and (soon-to-be) father. I love my wife and am passionate about the family and future that we are building together.
+- I am a husband and a dog-dad. I love my wife and am passionate about the family and future that we are building together.
 
 **Note**: Any opinions shared on this blog are my own and do not represent the views of my employer.
