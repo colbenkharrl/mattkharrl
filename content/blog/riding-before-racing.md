@@ -19,7 +19,7 @@ After moving from San Franciso to Phoenix, my morning rides went from "climbing 
 
 In December 2020, I completed Rapha's "Festive 500" challenge for the first time: 500km within 8 days. Coming off of that challenge, I realized that my base fitness and training tolerance were solid, and I wanted more. So, I purchased a smart trainer and started my training and performance journey.
 
-I spent 2021 learning about training and performance by and for myself. Training with power, structure, and goals changed how I thought about cycling and myself as an athlete. Zwift opened new doors for me, and occasional group rides exposed me to social discipline and etiquette within the sport. Over 2021 I would see my FTP climb from 3.2w/kg -> 4.1w/kg, and my annual miles would triple to 5000.
+I spent 2021 learning about training and performance by and for myself. Training with power, structure, and goals changed how I thought about cycling and myself as an athlete. Zwift opened new doors for me, and occasional group rides exposed me to social discipline and etiquette within the sport. Over 2021 I would see my FTP climb from 3.2w/kg to 4.1w/kg, and my annual miles would triple to over 5,000.
 
 The idea of "bike racing" was always alluring, but I had never spent enough thought or effort to understand what that entails, let alone how I might join the scene. In reality, I was insecure and afraid that this "competitive athlete" persona I had crafted in my head might be shattered if I went up against "real" athletes.
 
