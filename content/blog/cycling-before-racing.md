@@ -27,7 +27,7 @@ I maintained a _"one day, I will race"_ attitude until March 2022. I jumped on t
 
 - "you are strong" (who doesn't love validation)
 - "find your next local USAC race, sign up in CAT 5, and just do it" (pretty simple instructions to follow)
-- "it will be hard, you will fail, that's okay" (expect to be humbled)
+- "it will be hard, you will fail, and that's okay" (prepare to be humbled, set low expectations)
 
 These few brief comments were significant. That night, I signed up for my first USAC race - a CAT 5 criterium - with only three days until the event.
 
