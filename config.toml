@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Matt Kharrl"
 intro = "Tech / Bikes / Family"
-description = "I have approximate knowledge of many things."
+description = "\"I have approximate knowledge of many things.\""
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
