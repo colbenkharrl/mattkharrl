@@ -7,7 +7,7 @@ showpagemeta = true
 showcomments = false
 slug = ""
 tags = ["cycling","racing"]
-title = "Cycling Before Racing"
+title = "The riding before the racing"
 description = "Looking back on my cycling journey prior to lining up for my first race."
 type="blog"
 
