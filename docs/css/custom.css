@@ -14,3 +14,25 @@ table {
 th, td {
     padding-right: 16px;
 }
+
+/* Link styles */
+
+.content a,
+.content a:hover,
+.content a:visited,
+.content a:link
+{
+    text-decoration: none;
+
+    color: #228fc6;
+}
+
+/* Content header styles */
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    text-align: left;
+}
