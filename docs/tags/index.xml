@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Matt Kharrl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Jan 2023 09:00:00 -0700</lastBuildDate><atom:link href="https://matt.kharrl.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>climbing</title>
-      <link>https://matt.kharrl.com/tags/climbing/</link>
-      <pubDate>Fri, 06 Jan 2023 09:00:00 -0700</pubDate>
-      
-      <guid>https://matt.kharrl.com/tags/climbing/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 09 Jan 2023 09:00:00 -0700</lastBuildDate><atom:link href="https://matt.kharrl.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cycling</title>
       <link>https://matt.kharrl.com/tags/cycling/</link>
-      <pubDate>Fri, 06 Jan 2023 09:00:00 -0700</pubDate>
+      <pubDate>Mon, 09 Jan 2023 09:00:00 -0700</pubDate>
       
       <guid>https://matt.kharrl.com/tags/cycling/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>racing</title>
       <link>https://matt.kharrl.com/tags/racing/</link>
-      <pubDate>Fri, 06 Jan 2023 09:00:00 -0700</pubDate>
+      <pubDate>Mon, 09 Jan 2023 09:00:00 -0700</pubDate>
       
       <guid>https://matt.kharrl.com/tags/racing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climbing</title>
+      <link>https://matt.kharrl.com/tags/climbing/</link>
+      <pubDate>Fri, 06 Jan 2023 09:00:00 -0700</pubDate>
+      
+      <guid>https://matt.kharrl.com/tags/climbing/</guid>
       <description></description>
     </item>
     
